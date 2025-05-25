@@ -19,7 +19,7 @@ Ağız açık: kurtlar gelir + ulama sesi
 Ağız kapalı: her şey normale döner       
 Çıkmak için q tuşuna bas.        
 
-Projeyi öğrenirken keyif aldım, umarım sen de denerken eğlenirsin! 🤘🐺
+Projeyi geliştirirken keyif aldım, umarım sen de denerken eğlenirsin! 🤘🐺
 
 
 ## 🛠️ Gereksinimler
